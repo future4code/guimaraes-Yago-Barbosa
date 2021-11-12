@@ -1,0 +1,10 @@
+1 - Peixe frito com açaí e farinha de tapioca
+2 - Bife com feijão, arroz, batata frita e farofa
+3 - Bife com macarrão, batata frita e farofa
+4 - Comida japonesa 
+5 - Comida Italiana
+6 - Comida Chinesa
+7 - Salada
+8 - Sopa
+9 - Frutas
+10 - Peixe assado com feijão, arroz e farofa
