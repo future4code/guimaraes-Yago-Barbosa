@@ -1,0 +1,4 @@
+#Aprendizado da semana
+
+Durante essas semanas estudando na **Labenu**, pude aprender a mexer no terminal git bash, aprendi a mexer no **github** e aprendi a mexer no **Vsstudio code**. Isso na prática! Na teoria, aprendi a **história** do **Linux** e entre outras informações relevantes.
+Estou prestes a aprender mais e como está sendo gratificante esse aprendizado. 
